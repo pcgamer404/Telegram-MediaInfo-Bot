@@ -51,9 +51,9 @@ API_ID = 123456
 API_HASH = "your_api_hash"
 BOT_TOKEN = "your_bot_token"
 
-    Get API credentials from my.telegram.org
+    Get API credentials from 9my.telegram.org](my.telegram.org)
 
-    Create a bot via @BotFather
+    Create a bot via [@BotFather](https://t.me/BotFather)
 
 5. Run the Bot
 
@@ -90,9 +90,9 @@ This project is licensed under the MIT License.
 
 🤝 Credits
 
-    Pyrogram (https://github.com/pyrogram/pyrogram)
-    pymediainfo (https://github.com/sbraz/pymediainfo)
-    MediaInfo (https://mediaarea.net/en/MediaInfo)
+    [Pyrogram](www.github.com/pyrogram/pyrogram)
+    [pymediainfo](https://github.com/sbraz/pymediainfo)
+    [MediaInfo](https://mediaarea.net/en/MediaInfo)
 
 🛠️ Todo (optional)
 
